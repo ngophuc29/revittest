@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/revittest/static/css/main.073c9b0a.css",
+    "main.js": "/revittest/static/js/main.f33631a9.js",
+    "static/js/787.4d670efc.chunk.js": "/revittest/static/js/787.4d670efc.chunk.js",
+    "index.html": "/revittest/index.html",
+    "main.073c9b0a.css.map": "/revittest/static/css/main.073c9b0a.css.map",
+    "main.f33631a9.js.map": "/revittest/static/js/main.f33631a9.js.map",
+    "787.4d670efc.chunk.js.map": "/revittest/static/js/787.4d670efc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.f33631a9.js"
+  ]
+}
